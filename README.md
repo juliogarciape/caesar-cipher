@@ -5,13 +5,11 @@
 ## Technologies Used
 
 - Python 3.10
-- Docker
 
 ## How to Run
 
 ```sh
 git clone https://github.com/juliogarciape/caesar-cipher
-
 cd caesar-cipher
 
 python3 caesar.py -c "message to encrypt"  # To encrypt a message
